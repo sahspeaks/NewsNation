@@ -1,4 +1,4 @@
-import React, { Component, COmponent } from "react";
+import React, { Component} from "react";
 import loading from "./loading.gif";
 
 export default class Spinner extends Component {
